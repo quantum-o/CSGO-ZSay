@@ -9,5 +9,5 @@
 
  | ConVar  | Varsayılan | Açıklama |
  | :---  | :---: | :---: |
- | `sm_zsay_sunucu_adi` | `SM`  | Lütfen buraya ip adresinizi yazın |
+ | `sm_zsay_sunucu_adi` | `SM`  | Lütfen buraya sunucu isminizi yazın |
  | `sm_zsay_sunucu_ip`  | `oyundedektoru.com` | Lütfen buraya ip adresinizi yazın |
